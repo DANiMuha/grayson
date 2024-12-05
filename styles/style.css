@@ -40,6 +40,9 @@ ul{
     color: #000;
     
 }
+body{
+    background: red;
+}
 
 .header__nav-dropdown-link{
     padding: 12px 30px;
